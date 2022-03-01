@@ -28,7 +28,7 @@ def banner():
       __..','/ ,' :  `-.|::)_`.
       `..__..-'   |`.      __,' 
                   :  `-._ `  ;
-                   \ \   )  / Instagram: mammad.today
+                   \ \   )  / Instagram: cyberfo
                    .\ `.   /  Github   : https://github.com/wodsec3
                     ::    /   Welcome Friends To Python-Keylogger
                     :|  ,'
